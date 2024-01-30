@@ -1,0 +1,7 @@
+/Users/supriya/Documents/git/microservices_new/product-service/src/main/java/com/shoppingapp/productservice/ProductServiceApplication.java
+/Users/supriya/Documents/git/microservices_new/product-service/src/main/java/com/shoppingapp/productservice/dto/ProductRequest.java
+/Users/supriya/Documents/git/microservices_new/product-service/src/main/java/com/shoppingapp/productservice/model/Product.java
+/Users/supriya/Documents/git/microservices_new/product-service/src/main/java/com/shoppingapp/productservice/dto/ProductResponse.java
+/Users/supriya/Documents/git/microservices_new/product-service/src/main/java/com/shoppingapp/productservice/repository/ProductRepository.java
+/Users/supriya/Documents/git/microservices_new/product-service/src/main/java/com/shoppingapp/productservice/service/ProductService.java
+/Users/supriya/Documents/git/microservices_new/product-service/src/main/java/com/shoppingapp/productservice/controller/ProductController.java
